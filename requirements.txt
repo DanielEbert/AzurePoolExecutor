@@ -1,0 +1,6 @@
+azure-core==1.37.0
+azure-data-tables==12.7.0
+azure-storage-blob==12.27.1
+azure-storage-queue==12.14.1
+cloudpickle==3.1.2
+
