@@ -34,11 +34,6 @@ Tasks are serialized using `cloudpickle` and stored in Azure Blob Storage, while
 
 3. **Install dependencies:**
    ```bash
-   pip install azure-storage-blob azure-storage-queue azure-data-tables cloudpickle
-   ```
-
-   Or install from a requirements file if available:
-   ```bash
    pip install -r requirements.txt
    ```
 
